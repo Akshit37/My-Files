@@ -1,15 +1,15 @@
-Financial Report
+# Financial Report
 
 Hello Everyone, 
 I made this Finance Dashboard in Power BI with the sample Finance dataset. 
 
-Problem Statement
+# Problem Statement
 
 The goal of this Power BI Dashboard project is to evaluate a company's financial performance by utilizing the provided sample financial data. The dashboard aims to:
 * Present an interactive and visually engaging overview of key financial metrics such as profit, expenses, revenue, discounts, and profit margins.
 * Enable stakeholders to analyze trends in monthly performance, product-wise and segment-wise discounts, and product profit margins.
 
-Sections in the Dashboard
+# Sections in the Dashboard
 
 This Power BI Dashboard is designed to provide an interactive and insightful way to explore financial data. Here’s what it offers:
 * Filter Options: Easily slice data by Country, or Month to focus on particular data.
