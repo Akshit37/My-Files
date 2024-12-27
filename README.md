@@ -17,4 +17,5 @@ This Power BI Dashboard is designed to provide an interactive and insightful way
 * Monthly Trends: An area chart shows how profits change month-to-month, while a line chart compares revenue and expenses over time.
 * Product and Segment Insights: Pie charts reveal how discounts are distributed across products and segments, while bar charts highlight profit margins by product.
 
+The dashboard and dataset can be accessed using this link:
 
