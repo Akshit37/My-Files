@@ -18,4 +18,4 @@ This Power BI Dashboard is designed to provide an interactive and insightful way
 * Product and Segment Insights: Pie charts reveal how discounts are distributed across products and segments, while bar charts highlight profit margins by product.
 
 The dashboard and dataset can be accessed using this link:
-
+https://github.com/Akshit37/Financial-Dashboard.git
