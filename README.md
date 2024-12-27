@@ -1,7 +1,7 @@
 Financial Report
 
 Hello Everyone, 
-I made this Finance Dashboard in Power BI with the Finance Excel Workbook provided by Microsoft on their Website.
+I made this Finance Dashboard in Power BI with the sample Finance datset. 
 
 Problem Statement
 
